@@ -8,12 +8,16 @@ This project automates the process of converting markdown-formatted meeting note
 - git clone <repository-url>
 - cd <repository-folder>
 
-### Open in Google Colab:Upload the script to Google Colab or open it directly from GitHub using:
+### Open in Google Colab:
+
+Upload the script to Google Colab or open it directly from GitHub using:
 
 from google.colab import drive
 drive.mount('/content/drive')
 
-### Authenticate Google API Access:Run the authentication cell in the Colab notebook to connect your Google account
+### Authenticate Google API Access:
+
+Run the authentication cell in the Colab notebook to connect your Google account
 
 # Required Dependencies
 
